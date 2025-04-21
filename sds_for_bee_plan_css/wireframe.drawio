@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-10-20T14:49:18.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="WQ6lW1jJgDZb6fcCrrLC" version="22.1.2" type="device">
+  <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
+    <mxGraphModel dx="1715" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="atG25OGe4hVkbQDd4LmT-27" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=none;arcSize=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#000000;labelBackgroundColor=none;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="580" width="1160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nxR0AlIQPWPvHRCoPoJI-6" value="" style="group;rounded=1;arcSize=5;strokeColor=default;strokeWidth=3;glass=0;shadow=0;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="590" width="800" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;Welcome to Bee Plan CSS! To create a schedule, please click the &#39;Create Your Schedule!&#39; button on the right side. Ensure that your file is uploaded in the specified format.&lt;br&gt;&lt;br&gt;The program is currently calculating your schedule. Please be patient.&lt;br&gt;&lt;br&gt;Error! The uploaded file format is incorrect. Please verify the file format and try again.&lt;br&gt;&lt;br&gt;Thank you for using Bee Plan CSS. You may now exit the program.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=12;strokeColor=#ffffff;align=left;spacing=10;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=none;" parent="nxR0AlIQPWPvHRCoPoJI-6" vertex="1">
+          <mxGeometry width="800" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="nxR0AlIQPWPvHRCoPoJI-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.arc;startAngle=0.25;endAngle=1;strokeWidth=4;strokeColor=#6C767D;" parent="nxR0AlIQPWPvHRCoPoJI-6" vertex="1">
+          <mxGeometry x="8" y="261" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pab5gGQMFbe0bZDY7aOC-1" value="" style="group;sketch=1;curveFitting=1;jiggle=2;rounded=0;strokeWidth=3;strokeColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="850" y="590" width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;rounded=0;fontSize=12;align=center;strokeWidth=3;labelBackgroundColor=none;labelBorderColor=none;container=0;" parent="Pab5gGQMFbe0bZDY7aOC-1" vertex="1">
+          <mxGeometry width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=left;whiteSpace=wrap;" parent="Pab5gGQMFbe0bZDY7aOC-1" vertex="1">
+          <mxGeometry x="15" y="165" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-14" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;strokeColor=#dddddd;whiteSpace=wrap;align=left;verticalAlign=top;fontSize=14;whiteSpace=wrap;" parent="Pab5gGQMFbe0bZDY7aOC-1" vertex="1">
+          <mxGeometry x="15" y="195" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atG25OGe4hVkbQDd4LmT-11" value="Bee Plan CSS Logo" style="dashed=0;shape=mxgraph.gmdl.image;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;fontFamily=Courier New;fontSize=11;" parent="Pab5gGQMFbe0bZDY7aOC-1" vertex="1">
+          <mxGeometry x="107.5" y="167.5" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="nxR0AlIQPWPvHRCoPoJI-4" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot; color=&quot;#000000&quot;&gt;Create Your Schedule!&lt;/font&gt;&lt;/h1&gt;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="Pab5gGQMFbe0bZDY7aOC-1" vertex="1">
+          <mxGeometry x="20" y="18" width="290" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
